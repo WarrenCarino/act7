@@ -1,0 +1,39 @@
+<!--
+  ~ Copyright (C) 2023 The Android Open Source Project.
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     https://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string name="app_name">MLBB Hero App</string>
+    <string name="dog_name_1">Atlas</string>
+    <string name="dog_name_2">Lolita</string>
+    <string name="dog_name_3">Franco</string>
+    <string name="dog_name_4">Minotaur</string>
+    <string name="dog_name_5">Johnson</string>
+    <string name="dog_name_6">Akai</string>
+    <string name="dog_name_7">Mathilda</string>
+    <string name="dog_name_8">Terizla</string>
+    <string name="dog_name_9">Chou</string>
+    <string name="dog_description_1">Can set multiple enemies from the use of chains.</string>
+    <string name="dog_description_2">Can stun enemies using her hammer.</string>
+    <string name="dog_description_3">Can hook enemies or creeps from far.</string>
+    <string name="dog_description_4">Can rage and set enemies within a specific area.</string>
+    <string name="dog_description_5">Can use his ult to drive and roam around the map.</string>
+    <string name="dog_description_6">Can spin around and push its enemies.</string>
+    <string name="dog_description_7">Can fly and bump into enemies.</string>
+    <string name="dog_description_8">By using it ultimate, he casts chains into them.</string>
+    <string name="dog_description_9">Can kick enemies and do freestyles.</string>
+    <string name="about">Skill Description:</string>
+    <string name="years_old">%d years old</string>
+    <string name="expand_button_content_description">See more or less information about a heroes.</string>
+</resources>
